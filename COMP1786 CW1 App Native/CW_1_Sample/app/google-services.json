@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259967974194",
+    "firebase_url": "https://expense-1204e-default-rtdb.firebaseio.com",
+    "project_id": "expense-1204e",
+    "storage_bucket": "expense-1204e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259967974194:android:513be6834af8fcef09f52b",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.cw_1_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259967974194-clr84hrkrl13ir6pcdrrvo1jrnc5rgv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHiay-bvyKVZhm0IiqXxggQ-EXZgRpP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259967974194-clr84hrkrl13ir6pcdrrvo1jrnc5rgv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
